@@ -1,0 +1,4 @@
+{"level": "info", "log_string": "API1 started successfully", "timestamp": "2024-05-14T04:27:12.404291Z", "metadata": {"source": "H:\\360\\quality_log_control\\logs\\log1.log"}}
+{"level": "info", "log_string": "API1 started successfully", "timestamp": "2024-05-14T04:27:18.769193Z", "metadata": {"source": "H:\\360\\quality_log_control\\logs\\log1.log"}}
+{"level": "info", "log_string": "API1 log message 0", "timestamp": "2024-05-14T08:51:22.261242Z", "metadata": {"source": "H:\\360\\quality_log_control\\logs\\log1.log"}}
+{"level": "info", "log_string": "API1 log message 0", "timestamp": "2024-05-14T08:54:25.008525Z", "metadata": {"source": "H:\\360\\quality_log_control\\logs\\log1.log"}}
